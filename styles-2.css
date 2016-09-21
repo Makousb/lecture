@@ -1,0 +1,15 @@
+.sidebar{
+  width: 300px;
+  color:#3E2723;
+  background: #8D6E63;
+  float: left;
+
+}
+img{
+  width: 200px;
+  height: 200px;
+}
+
+body{
+  background-color: #3E2723;
+}
