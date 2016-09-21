@@ -3,11 +3,27 @@
   color:#3E2723;
   background: #8D6E63;
   float: left;
+  margin: 12px;
+
+        border: 2px solid black;
+
+        padding: 4px;
+
+        background-color: grey;
+
 
 }
 img{
   width: 200px;
   height: 200px;
+  margin: 12px;
+
+        border: 2px solid black;
+
+        padding: 4px;
+
+        background-color: grey;
+
 }
 
 body{
