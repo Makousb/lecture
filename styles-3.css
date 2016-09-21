@@ -1,0 +1,23 @@
+.column{
+  width: 400px;
+  background-color: #424242;
+  color: white;
+  float: left;
+  margin: 12px;
+
+        border: 2px solid black;
+
+        padding: 4px;
+
+        background-color: grey; 
+
+
+}
+body{
+  background-color: grey
+}
+img{
+  float: right;
+  width:300px;
+  height: 400px
+}
